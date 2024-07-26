@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <div className={styles.header}>
-        <Image src="/logo.png" alt="Carbonomy Logo" width={150} height={50} />
+        <Image src="/logo.png" alt="Carbonomy Logo" width={300} height={50} />
       </div>
       <div className={styles.content}>
         <h1>탄소가 곧 비용인 시대,</h1>
